@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# uv / venv
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.local
+
+# Editors
+.vscode/
+.idea/
+*.swp
